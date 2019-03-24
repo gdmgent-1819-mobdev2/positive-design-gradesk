@@ -1,5 +1,5 @@
-# Gradesk
-## Mobile Development II
+# Gradesk - Mobile Development II
+## Description of the project
 
 The app gradesk helps to eliminate stress during the exams. We had to amplify 4 features:
 A start screen, a calendar, notifications and the settings of the app.
@@ -10,4 +10,5 @@ Quinten Leysen,
 Thor Boonaert,
 Simon Demeyere,
 Ona Demuytere
+
 
